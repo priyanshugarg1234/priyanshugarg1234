@@ -1,12 +1,17 @@
 ![MasterHead](https://lh3.googleusercontent.com/GjjewSW5iRUP7_nqmtKKpFVtOrVCYz0QFnB7cXGSbfK36Yz6Wq1mdp9ToPdGWFjCPShel9r63kLF667rbMq33iMd4Q=s1280-w1280-h800)
 ## Greetings! 
 
-Welcome to my GitHub profile! I'm **priyanshu garg**, a dedicated **MERN Stack developer** with a passion for creating impactful solutions and continuously expanding my skills in the ever-evolving world of technology.
+Welcome to my GitHub profile! I'm **priyanshu garg**, I am an Electronics & Communication Engineering student passionate about VLSI Design, RTL Design, Physical Design, and Analog IC Design. I enjoy working on semiconductor technologies, digital circuits, and backend VLSI automation using industry-standard EDA tools.
 
 ### A Glimpse into My World:
 
-- 💬 Feel free to ask me about anything related to **Frontend Development**, **React**, or **Backend Technologies**. If I don't know the answer, I’ll be eager to learn with you!
-- 🔄 **Passion**: Exploring the world of web development and creating seamless, intuitive user experiences.
+-💡 **Areas of Interest**
+Digital VLSI Design
+RTL Design using Verilog HDL
+Physical Design (RTL-to-GDSII)
+Analog IC Design
+Timing & Power Analysis
+Semiconductor Technology
 - 🖋✨ **Hobbies**: Building projects, experimenting with new tech, and solving real-world problems.
 - 📧 **Contact**: Reach me at **gargpriyanshu0453@gmail.com**.
   
@@ -20,9 +25,31 @@ Welcome to my GitHub profile! I'm **priyanshu garg**, a dedicated **MERN Stack d
 
 
 ---
-
+🛠 **Tools & Technologies**
+Languages
+Verilog HDL
+C++
+C
+EDA Tools
+Cadence Genus
+Cadence Innovus
+Cadence Virtuoso
+Synopsys Custom Compiler
+Xilinx Vivado
+ORCAD PSPICE
 ---
-
+📌 **Featured Projects**
+🔹 Moore Sequence Detector – RTL to GDSII
+Complete backend implementation using Cadence Innovus
+Achieved timing closure with zero setup/hold violations
+🔹 Analog IC Design using Synopsys
+Designed single-stage and two-stage operational amplifiers
+Performed DRC/LVS verification and layout validation
+🔹 VLSI Automation Projects
+Counter Design
+8:1 Multiplexer
+Timing, Area & Power Analysis
+---
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
