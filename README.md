@@ -58,9 +58,6 @@ Timing, Area & Power Analysis
   <a href="https://github.com/priyanshugarg1234">
     <img src="https://github-readme-stats.vercel.app/api?username=priyanshugarg1234&show_icons=true&locale=en" alt="GitHub Stats" style="width: 48%; height: auto;" />
   </a>
-  <a href="https://github.com/priyanshugarg1234">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshugarg1234&" alt="GitHub Streak" style="width: 48%; height: auto;" />
-  </a>
 </div>
 
 
