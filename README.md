@@ -26,11 +26,12 @@ Semiconductor Technology
 
 ---
 🛠 **Tools & Technologies**
-Languages:
-<br>Verilog HDL</br>
-<br>C++</br>
-<br>C</br>
-<br>EDA Tools</br>
+
+<br>Languages:</br>
+Verilog HDL
+C++
+C
+<br>EDA Tools</br>:
 Cadence Genus
 Cadence Innovus
 Cadence Virtuoso
@@ -39,16 +40,16 @@ Xilinx Vivado
 ORCAD PSPICE
 ---
 📌 **Featured Projects**
-🔹 Moore Sequence Detector – RTL to GDSII
+<br>🔹 Moore Sequence Detector – RTL to GDSII
 Complete backend implementation using Cadence Innovus
-Achieved timing closure with zero setup/hold violations
-🔹 Analog IC Design using Synopsys
+Achieved timing closure with zero setup/hold violations</br>
+<br>🔹 Analog IC Design using Synopsys
 Designed single-stage and two-stage operational amplifiers
-Performed DRC/LVS verification and layout validation
-🔹 VLSI Automation Projects
+Performed DRC/LVS verification and layout validation</br>
+<br>🔹 VLSI Automation Projects
 Counter Design
 8:1 Multiplexer
-Timing, Area & Power Analysis
+Timing, Area & Power Analysis</br>
 ---
 ## 📊 GitHub Stats:
 
