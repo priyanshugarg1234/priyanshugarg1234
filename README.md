@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **priyanshu garg**, I am an Electronics & Comm
 
 ### A Glimpse into My World:
 
--💡 **Areas of Interest**
+- 💡 **Areas of Interest**:
 Digital VLSI Design
 RTL Design using Verilog HDL
 Physical Design (RTL-to-GDSII)
@@ -26,11 +26,11 @@ Semiconductor Technology
 
 ---
 🛠 **Tools & Technologies**
-Languages
-Verilog HDL
-C++
-C
-EDA Tools
+Languages:
+<br>Verilog HDL</br>
+<br>C++</br>
+<br>C</br>
+<br>EDA Tools</br>
 Cadence Genus
 Cadence Innovus
 Cadence Virtuoso
